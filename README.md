@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Trader Performance vs Market Sentiment Analysis
 
 ## Overview
