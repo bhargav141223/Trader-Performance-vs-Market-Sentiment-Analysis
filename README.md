@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trader Performance vs Market Sentiment Analysis
 
 ## Overview
@@ -76,3 +77,6 @@ All charts are saved in the `outputs/` directory as PNG files for easy viewing a
 
 ## Contact
 Project completed for Primetrade.ai Data Science Intern application
+=======
+# Trader-Performance-vs-Market-Sentiment-Analysis
+>>>>>>> 811827d98c4de74ad8af8bc75714771fe84ba300
